@@ -3,3 +3,5 @@ let b = 9;
 function sumar(){
   console.log a+b
 }
+
+let xico=1;
